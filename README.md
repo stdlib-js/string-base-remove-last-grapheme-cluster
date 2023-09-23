@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import removeLastGraphemeCluster from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-remove-last-grapheme-cluster@deno/mod.js';
+import removeLastGraphemeCluster from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-remove-last-grapheme-cluster@v0.1.0-deno/mod.js';
 ```
 
 #### removeLastGraphemeCluster( str, n )
@@ -80,7 +80,7 @@ out = removeLastGraphemeCluster( 'foo bar', 10 );
 <!-- eslint-disable id-length -->
 
 ```javascript
-import removeLastGraphemeCluster from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-remove-last-grapheme-cluster@deno/mod.js';
+import removeLastGraphemeCluster from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-remove-last-grapheme-cluster@v0.1.0-deno/mod.js';
 
 var str = removeLastGraphemeCluster( 'presidential election', 1 );
 // returns 'presidential electio'
